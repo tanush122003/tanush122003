@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 -->
 <center>
  
- **Platforms I use:**
+ **Platforms to find me:**
  
-[![Email](https://img.shields.io/badge/-Email-000?&logo=Email)](mailto:tanushchauhan67gmail.com?subject=[GitHub]) 
-[![Github](https://img.shields.io/badge/-GitHub-000000?&logo=github)](https://www.github.com/tanush122003)
+[![Email](https://img.shields.io/badge/-EMAIL-719FB0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanushchauhan67@gmail.com?subject=[GitHub])
+[![Github](https://img.shields.io/badge/github-689683.svg?style=for-the-badge&logo=github)](https://www.github.com/tanush122003)
 [![Discord](https://img.shields.io/badge/-Discord-000000?&logo=discord)](https://discord.com/channels/Miyuki#3189)
  
 **Stuff I can work with:**
