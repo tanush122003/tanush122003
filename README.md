@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=tanush122003&color=864879)
 ### Hi there 👋 this is Tanush Chauhan a 1st year computer science student
 
 <img src="https://github-readme-stats.vercel.app/api?username=tanush122003&&show_icons=true&title_color=2D93AD&icon_color=DBD56E&text_color=88AB75&bg_color=0a0c10" img align="left"> 
@@ -37,3 +38,4 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![JN](https://img.shields.io/badge/-Jupyter_Notebook-000?&logo=jupyter)
