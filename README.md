@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 **Platforms to find me:**
  
 [![Email](https://img.shields.io/badge/-EMAIL-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanushchauhan67@gmail.com?subject=[GitHub])
-[![Github](https://img.shields.io/badge/github-0a0c10.svg?style=for-the-badge&logo=github)](https://www.github.com/tanush122003)
+[![Github](https://img.shields.io/badge/github-202020.svg?style=for-the-badge&logo=github)](https://www.github.com/tanush122003)
 [![Discord](https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Miyuki#3189)
 
 </center>
