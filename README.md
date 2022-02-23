@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=tanush122003&color=864879)
+![](https://komarev.com/ghpvc/?username=tanush122003&color=101010)
 ### Hi there 👋 this is Tanush Chauhan a 1st year computer science student
 
 <img src="https://github-readme-stats.vercel.app/api?username=tanush122003&&show_icons=true&title_color=2D93AD&icon_color=DBD56E&text_color=88AB75&bg_color=0a0c10" img align="left"> 
