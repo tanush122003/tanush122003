@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 <center>
  
-[![Github](https://img.shields.io/badge/github-689683.svg?style=for-the-badge&logo=github)](https://www.github.com/tanush122003)
+[![Github](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github)](https://www.github.com/tanush122003)
 [![Discord](https://img.shields.io/badge/discord-726A95.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Miyuki#3189)
  
 **Stuff I can work with:**
