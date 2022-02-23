@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-000000?&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?&logo=javascript)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C#)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C+)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 
