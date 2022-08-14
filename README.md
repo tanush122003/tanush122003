@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <center>
 <br>
  
-**⭐Platforms to find me:**
+**⭐Platforms to find me :**
  
 [![Email](https://img.shields.io/badge/-EMAIL-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanushchauhan67@gmail.com?subject=[GitHub])
 [![Instagram](https://img.shields.io/badge/instagram-864879.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanushchauhan_1206)
