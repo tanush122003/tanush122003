@@ -5,7 +5,7 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tanush122003&&show_icons=true&title_color=2D93AD&icon_color=DBD56E&text_color=88AB75&bg_color=0a0c10" img align="left"></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanush122003&show_icons=true&title_color=2D93AD&icon_color=DBD56E&text_color=88AB75&bg_color=0a0c10" img align="right">
-<img align="center" img src="https://github-readme-streak-stats.herokuapp.com/?user=tanush122003&theme=neon-dark" />
+<br><br><br><br><br><br><br><img align="center" img src="https://github-readme-streak-stats.herokuapp.com/?user=tanush122003&theme=neon-dark" />
 
 
 <!--
@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/badge/github-202020.svg?style=for-the-badge&logo=github)](https://www.github.com/tanush122003)
 [![Discord](https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Miyuki#3189)
 
+ 
 </center>
+<br>
 
 **⭐Languages I can work with :**
 
