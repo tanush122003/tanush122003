@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=tanush122003&&show_icons=true&title_color=2D93AD&icon_color=DBD56E&text_color=88AB75&bg_color=0a0c10" img align="left"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanush122003&show_icons=true&title_color=2D93AD&icon_color=DBD56E&text_color=88AB75&bg_color=0a0c10">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-ashish&" alt="coder-ashish" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanush122003&" />
 
 <!--
 **tanush122003/tanush122003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
