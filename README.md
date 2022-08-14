@@ -28,17 +28,21 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Miyuki#3189)
 
 </center>
+
+🪡Languages I can work with:
+
+&#8625;![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/C++-000000?for-the-badge&logo=c%2B%2B&logoColor=%2300599C)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
+![Java](https://img.shields.io/badge/-Java-000000?&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![JN](https://img.shields.io/badge/-Jupyter_Notebook-000?&logo=jupyter)
  
 **Stuff I can work with:**
  
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?&logo=github)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
-![Java](https://img.shields.io/badge/-Java-000000?&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?&logo=javascript)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C++)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
-![JN](https://img.shields.io/badge/-Jupyter_Notebook-000?&logo=jupyter)
