@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 ![Java](https://img.shields.io/badge/-Java-000000?&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JN](https://img.shields.io/badge/-Jupyter_Notebook-000?&logo=jupyter)
 ![php](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 <br>
