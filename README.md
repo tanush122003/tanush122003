@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=tanush122003&color=32CD32)
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> this is Tanush Chauhan a 2nd year computer science student<br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Vinyl&size=32&duration=4000&pause=100&color=7CFF2C&center=true&vCenter=true&width=435&lines=I'm+a+Web+Designer;I'm+a+Coder;I'm+a+UI%2FUX+Designer;I'm+a+Front+End+Developer;I'm+a+Back+End+Developer" alt="Typing SVG" /></a>
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanush122003&theme=onedark" /></a></p><br>
 
 
