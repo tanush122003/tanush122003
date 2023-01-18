@@ -1,11 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=tanush122003&color=32CD32)
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> this is Tanush Chauhan a 2nd year computer science student<br><br>
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanush122003&theme=onedark" /></a></p><br>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanush122003&theme=onedark" /></a></p><br>
 
-
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tanush122003&&show_icons=true&title_color=2D93AD&icon_color=DBD56E&text_color=88AB75&bg_color=0a0c10" img align="left"></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanush122003&show_icons=true&title_color=2D93AD&icon_color=DBD56E&text_color=88AB75&bg_color=0a0c10" img align="right">
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tanush122003&&show_icons=true&title_color=2D93AD&icon_color=DBD56E&text_color=88AB75&bg_color=0a0c10" img align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanush122003&show_icons=true&title_color=2D93AD&icon_color=DBD56E&text_color=88AB75&bg_color=0a0c10" img align="right"></p>
 <br><br><br><br><br><br><br><br><img align="center" img src="https://github-readme-streak-stats.herokuapp.com/?user=tanush122003&theme=neon-dark" />
 
 
