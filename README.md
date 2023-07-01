@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 ![Node.Js](https://img.shields.io/badge/-Node.Js-000?&logo=npm)
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-000?&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![ReactJs](https://img.shields.io/badge/-ReactJs-000?&logo=React)
 <br>
 <br>
 
