@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?&logo=javascript)
 ![JN](https://img.shields.io/badge/-Jupyter_Notebook-000?&logo=jupyter)
 ![php](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Node.Js](https://img.shields.io/badge/-Node.Js-000?&logo=npm)
 <br>
 <br>
 
