@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 ![php](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Node.Js](https://img.shields.io/badge/-Node.Js-000?&logo=npm)
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-000?&logo=express)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 <br>
 <br>
 
