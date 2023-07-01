@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-000?&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-000?&logo=React)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 <br>
 <br>
 
