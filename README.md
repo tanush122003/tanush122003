@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ![Windows](https://img.shields.io/badge/Windows-000000?badge&logo=windows&logoColor=0078D6)
 ![Apple](https://img.shields.io/badge/Apple-000000.svg?adge&logo=apple&logoColor=white)
-![Raspberry pi](https://img.shields.io/badge/Raspberry&nbsp;pi-000000.svg?adge&logo=raspberry-pi)
+![Raspberry pi](https://img.shields.io/badge/Raspberry&nbsp;pi-000000.svg?adge&logo=raspberry-pi&logoColor=red)
 <br>
 <br>
  
