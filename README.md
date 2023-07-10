@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 **⭐Platforms to find me :**
  
 [![Email](https://img.shields.io/badge/-EMAIL-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanushchauhan67@gmail.com?subject=[GitHub])
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanush-chauhan-14645726b/)
 [![Instagram](https://img.shields.io/badge/instagram-864879.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanushchauhan_1206)
 [![Github](https://img.shields.io/badge/github-202020.svg?style=for-the-badge&logo=github)](https://www.github.com/tanush122003)
 [![Discord](https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Miyuki#3189)
@@ -58,6 +59,7 @@ Here are some ideas to get you started:
 
 ![Windows](https://img.shields.io/badge/Windows-000000?badge&logo=windows&logoColor=0078D6)
 ![Apple](https://img.shields.io/badge/Apple-000000.svg?adge&logo=apple&logoColor=white)
+![Raspberry pi](https://img.shields.io/badge/Raspberry&nbsp;pi-000000.svg?adge&logo=raspberry-pi)
 <br>
 <br>
  
@@ -68,6 +70,8 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/Eclipse-000000?for-the-badge&logo=Eclipse&logoColor=FE7A16)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Postman](https://img.shields.io/badge/Postman-000000?for-the-badge&logo=postman&logoColor=FE7A16)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-000000?for-the-badge&logo=google-cloud&logoColor=blue)
 <br>
 <br>
 
